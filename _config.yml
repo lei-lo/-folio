@@ -1,17 +1,17 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: "#tech"
+email: "https://instagram.com/miaulei"
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  a channel on tech things
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+url:  mot-clic.tech #the base hostname & protocol for your site
+twitter_username:
+github_username:  lei-lo
 
 # Build settings
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 
 # Pagination
 paginate: 15
