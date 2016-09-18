@@ -7,23 +7,24 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
-
+Welcome! My name is Lei (\ˈlā\) and I started this blog to have a place to share things I'm excited about in tech.
+For starters, I love emoji✌️, Lua 🌝, and attempts to translate tech words (fyi, mot-clic == hashtag in French).
+<br/>
+<br/>
+I did the degree thing in Computer Science in Montreal. Now I'm at Shopify working on things that make our developers lives better.
+<br/>
+<br/>
+I was inspired by in part by these Candians girls: <a href="https://girlknowstech.com/en">Marie</a>, <a href="https://jvns.ca">Julia</a>, and <a href="https://meowni.ca">Monica</a>.
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:lei.lopez21@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/lei-lo" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://twitter.com/miaulei" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+        More of me on the interwebz :)
 </div>
 
