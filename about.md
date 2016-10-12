@@ -19,7 +19,7 @@ I was inspired by in part by these Candians girls: <a href="https://girlknowstec
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:lei.lopez21@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="mailto:lei@mot-clic.tech"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/lei-lo" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://twitter.com/miaulei" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
