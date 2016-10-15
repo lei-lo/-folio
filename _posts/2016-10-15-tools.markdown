@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Tools
+date:   2016-10-15
+description: things I use every day
+---
+
+#### A list of software I use every day:
+  - [iTerm2](https://www.iterm2.com/)
+  - [bash](https://www.gnu.org/software/bash/) (but I've been thinking of switching to [zsh](http://www.zsh.org/) ⚠️ 🙈 website)
+  - [homebrew](http://brew.sh/)🍺
+  - [Chrome](https://www.google.com/chrome/)
+  (fact: I once used [Chromium](https://www.chromium.org/Home) for a whole year without realizing it wasn't Chrome)
+  - [vim](https://www.vim.sexy/)
+  - [git](https://git-scm.com/) & [GitHub](https://github.com/) (YES, they are different things)
+  - [Slack](https://slack.com/) (the custom emoji library at work is amazing💖 )
+  - [1Password](https://1password.com/)
