@@ -18,7 +18,7 @@ Not really tech-related, but fun nonetheless 📚
 [x] Listen to an audiobook that has won an Audie Award: **I Suck at Girls** <br/>
 [x] Read a book over 500 pages long: **Conquest of the Incas** <br/>
 [ ] Read a book under 100 pages <br/>
-[ ] Read a book by or about a person that identifies as transgender <br/>
+[x] Read a book by or about a person that identifies as transgender **Safe Girl to Love** <br/>
 [ ] Read a book that is set in the Middle East <br/>
 [x] Read a book that is by an author from Southeast Asia: **Ru** <br/>
 [ ] Read a book of historical fiction set before 1900 <br/>
@@ -28,6 +28,6 @@ Not really tech-related, but fun nonetheless 📚
 [x] Read a non-fiction book about feminism or dealing with feminist themes: **Bossypants** <br/>
 [ ] Read a book about religion (fiction or non-fiction) <br/>
 [x] Read a book about politics, in your country or another (fiction or non-fiction): **In the Country** <br/>
-[ ] Read a food memoir <br/>
+[x] Read a food memoir <br/>
 [x] Read a play: **Circle Mirror Transformation** <br/>
 [ ] Read a book with a main character that has a mental illness <br/>
