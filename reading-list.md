@@ -6,7 +6,7 @@ permalink: /reading-list/
 
 Not really tech-related, but fun nonetheless 📚
 
-# [Read Harder Challenge 2016](http://bookriot.com/2015/12/15/2016-book-riot-read-harder-challenge/) (11/24)
+# [Read Harder Challenge 2016](http://bookriot.com/2015/12/15/2016-book-riot-read-harder-challenge/) (14/24)
 [ ] Read a horror book <br/>
 [ ] Read a non-fiction book about science <br/>
 [x] Read a collection of essays: **Why not me?** <br/>
@@ -25,9 +25,9 @@ Not really tech-related, but fun nonetheless 📚
 [x] Read the first book in a series by a person of colour **One Crazy Summer** <br/>
 [x] Read a non-superhero comic that debuted in the last three years: **C'est pas facile d'etre une fille** <br/>
 [ ] Read a book that was adapted into a movie, then watch the movie <br/>
-[x] Read a non-fiction book about feminism or dealing with feminist themes: **Bossypants** <br/>
+[x] Read a non-fiction book about feminism or dealing with feminist themes: **The Confidence Code** <br/>
 [ ] Read a book about religion (fiction or non-fiction) <br/>
 [x] Read a book about politics, in your country or another (fiction or non-fiction): **In the Country** <br/>
-[x] Read a food memoir <br/>
+[x] Read a food memoir **Relish** <br/>
 [x] Read a play: **Circle Mirror Transformation** <br/>
 [ ] Read a book with a main character that has a mental illness <br/>
